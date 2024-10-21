@@ -1,4 +1,6 @@
-# projecte_wordpress# Mòdul 12 - Projecte intermodular
+# Projecte_wordpress
+
+# Mòdul 12 - Projecte intermodular
 
 ## Projecte de portfolio 2024 - 2025
 
