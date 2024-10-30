@@ -107,3 +107,43 @@
 - Deporte: Rugby
 - Dominio web: www.rugbyleon.com
 - Mail: info@rugbyleon.com
+
+# Iker
+
+- Nombre: Escalada Pro
+- Dirección: Calle de las Rocas 9, 22700 Jaca, Huesca
+- Teléfono: +34 974 345 678
+- NIF: B13579135
+- Deporte: Escalada
+- Dominio web: www.escaladapro.com
+- Mail: info@escaladapro.com
+
+# Jordi
+
+- Nombre: Esquí Total
+- Dirección: Avenida de las Nieves 18, 18008 Sierra Nevada, Granada
+- Teléfono: +34 958 765 876
+- NIF: B24680246
+- Deporte: Esquí
+- Dominio web: www.esquitotal.com
+- Mail: contacto@esquitotal.com
+
+# Raül
+
+- Nombre: Golf de Andalucía
+- Dirección: Camino de los Green 34, 29600 Marbella, Málaga
+- Teléfono: +34 952 123 654
+- NIF: B36925814
+- Deporte: Golf
+- Dominio web: www.golfdeandalucia.com
+- Mail: info@golfdeandalucia.com
+
+# Francesc
+
+- Nombre: Patinaje Urbano
+- Dirección: Paseo de la Rueda 56, 28018 Madrid
+- Teléfono: +34 911 234 567
+- NIF: B47892011
+- Deporte: Patinaje
+- Dominio web: www.patinajeurbano.com
+- Mail: contacto@patinajeurbano.com
