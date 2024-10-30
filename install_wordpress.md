@@ -25,6 +25,10 @@ sudo chown -R www-data:www-data /var/www/html/wordpress
 
 ### Creació de BBDD i usuari de MariaDB
 
+```
+sudo mariadb
+```
+
 ![image](https://github.com/user-attachments/assets/3cd2dd02-d60d-412e-84d7-f001d6bf1518)
 
 ## Configuració de Wordpress
