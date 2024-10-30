@@ -8,7 +8,7 @@
 
 ```
 sudo apt update
-sudo apt install apache2 mariadb php php-mysqli
+sudo apt install apache2 mariadb-server php php-mysqli
 ```
 
 ## Instal·lació de Wordpress
