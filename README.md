@@ -1,6 +1,6 @@
-# Projecte Wordpress
-
 # Mòdul 12 - Projecte intermodular
+
+# Projecte Wordpress
 
 - [Enunciat](enunciat.md)
 - [Llistat d'empresas](empreses.md)
