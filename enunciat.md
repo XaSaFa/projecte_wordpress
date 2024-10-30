@@ -26,7 +26,7 @@ Quan tingueu Wordpress instal·lat:
 - La web mostrarà el logo de l’empresa a la pestanya del navegador.
 - Heu de canviar el tema per defecte de Wordpress.
 - Fareu un menú que es vegi des de la pàgina principal amb les següents opcions:
-  - Botiga: Link a la botiga de Woocommerce que tindrà mínim 10 productes relacionats amb l’empresa. Els productes tindran descripció, fotos i preu, 5 d’ells estan d’oferta.
+  - Botiga: Link a la botiga de Woocommerce que tindrà [aquests productes](productes.md).
   - Ofertes: Link a la botiga de Wordpress on només surtin els productes marcats en oferta.
   - Carro de la compra: Per fer una comanda i pagar-la.
   - Empresa: Link que anirà a una pàgina que és la **Portada** de la web que tindrà **logo** i **imatge gran corporativa** i un **text de benvinguda** adient.
