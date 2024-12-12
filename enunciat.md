@@ -72,3 +72,30 @@ Aquesta pàgina mostrarà un formulari de contacte amb els camps:
 - Motiu del missatge.
 
 Les respostes al formulari seran accessibles.
+
+# AMPLIACIÓ ENUNCIAT
+
+## Blog 
+
+Al menú de la web afegireu un ítem anomenat blog, aquest blog serà un link a les entrades de wordpress.
+
+Les entrades de Wordpress són articles que estan ordenats de forma cronològica.
+
+Cada article estarà relacionat amb la temàtica de la empresa i tindrà un text adient i imatges de suport (com a mínim 2 per article).
+
+Els temes dels articles seran:
+
+- Tutorials de l'esport (amb vídeos).
+- Reviews de productes de la botiga, amb link als productes de la botiga per poder comprar-los.
+- Actes d'inauguració d'establiments on venen productes de la marca.
+- Events de patrocini de la marca amb personalitats.
+- Etc.
+
+## Dades de contacte.
+
+A la pàgina de contacte, a més del formulari de contacte afegireu les dades de contacte de l'empresa, adreça, telèfon, mail...
+
+També afegireu un Google Maps incrustat de l'adreça de l'empresa.
+
+
+La vostra
